@@ -10,3 +10,8 @@
 
 게임의 완성도는 낮지만 당신을 피식~ 하고 웃게 만들 수는 있습니다!
 
+
+[![Video Label](http://img.youtube.com/vi/92lPRSoe0ok/0.jpg)](https://https://youtu.be/92lPRSoe0ok)
+
+위 사진을 클릭하면 유튜브로 이동합니다
+(링크: https://youtu.be/92lPRSoe0ok)
